@@ -4,9 +4,9 @@
   "description": "Laboratório de Business Intelligence focado em análise de churn e visualização de dados com Python.",
   "main": "inicial.ipynb",
   "scripts": {
-    "start": "jupyter notebook inicial.ipynb",
+    "start": "jupyter notebook notebooks/inicial.ipynb",
     "setup": "pip install -r requirements.txt",
-    "clean": "rm -rf .ipynb_checkpoints __pycache__ assets/png/*.png"
+    "clean": "rm -rf .ipynb_checkpoints __pycache__"
   },
   "repository": { "type": "git", "url": "git+https://github.com/Domisnnet/BI-Python.git" },
   "keywords": [
