@@ -10,9 +10,9 @@
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/BI-Python/blob/main/LICENSE)
 
 <p align="center">
-  <strong>Análise Visual de Churn</strong><br>
+  <strong>Análise Visual de Churn:</strong><br>
   <img src=
-    "assets/png/tela1.PNG" alt="Preview da Análise" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
+    "https://us-central1-github-stats-68157678-42e04.cloudfunctions.net/statsSvg?username=Domisnnet&theme=tokyonight" alt="Dashboard Animado" width="100%" 
   />
 </p>
 
@@ -39,6 +39,7 @@
 | **Processamento** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ETL, limpeza e transformação dos datasets de churn. |
 | **Visualização** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) | Geração de gráficos estatísticos e dashboards visuais. |
 | **Ambiente** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Notebook interativo para exploração e documentação viva. |
+
 
 ---
 
@@ -124,7 +125,7 @@ Deseja melhorar o design ou adicionar novas métricas? Siga o fluxo oficial:
 
 Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
-[![Issues Abertas](https://img.shields.io/github/issuesBI-Python?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/BI-Python/issues)
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Github-Stats-Gnr-Python?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/BI-Python/issues)
 [![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/BI-Python/issues/new)
 
 ---
@@ -150,9 +151,9 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 <h2 id="codigo-fonte">9. 💻 Código Fonte</h2>
 
-Deseja analisar a lógica de processamento? Explore o notebook principal:
+Deseja analisar a lógica de processamento? Explore o Repositório Oficial:
 
-[![Notebook Principal](https://img.shields.io/badge/Notebook-inicial.ipynb-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Domisnnet/BI-Python/blob/main/notebooks/inicial.ipynb)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FBI--Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Domisnnet/BI-Python)
 
 ---
 
