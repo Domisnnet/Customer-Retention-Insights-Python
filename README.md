@@ -180,7 +180,7 @@ Este projeto está licenciado sob a &nbsp;[![Licença MIT](https://img.shields.i
 
 <a href="https://github.com/Domisnnet"> 
   <img src=
-    "assets/imagens/DomisDev.png" width="90" style="border-radius: 50%" alt="Acessar perfil GitHub"
+    "assets/images/DomisDev.png" width="90" style="border-radius: 50%" alt="Acessar perfil GitHub"
   > 
 </a>
 
