@@ -151,7 +151,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Deseja analisar a lógica de processamento? Explore o Repositório Oficial:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FBI--Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Domisnnet/Customer-Retention-Insights-Python)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCustomer--Retention--Insights--Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Domisnnet/Customer-Retention-Insights-Python)
 
 ---
 
