@@ -1,20 +1,20 @@
-![Repo Size](https://img.shields.io/github/repo-size/Domisnnet/BI-Python?style=flat&label=REPO%20SIZE&labelColor=2d333b&color=0969da)
-![Stars](https://img.shields.io/github/stars/Domisnnet/BI-Python?style=flat&label=STARS&labelColor=2d333b&color=0969da)
-![Last Commit](https://img.shields.io/github/last-commit/Domisnnet/BI-Python?style=flat&label=LAST%20COMMIT&labelColor=2d333b&color=2ea44f)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white&labelColor=2d333b)
+![Repo Size](https://img.shields.io/github/repo-size/Domisnnet/Customer-Retention-Insights-Python?style=flat&label=REPO%20SIZE&labelColor=2d333b&color=0969da)
+![Stars](https://img.shields.io/github/stars/Domisnnet/Customer-Retention-Insights-Python?style=flat&label=STARS&labelColor=2d333b&color=0969da)
+![Last Commit](https://img.shields.io/github/last-commit/Domisnnet/Customer-Retention-Insights-Python?style=flat&label=LAST%20COMMIT&labelColor=2d333b&color=2ea44f)
+![Version](https://img.shields.io/github/package-json/v/Domisnnet/Customer-Retention-Insights-Python?style=flat&label=VERSION&labelColor=2d333b&color=0969da&logo=python&logoColor=white)
 
 <h2 id="sobre-o-projeto">1. BI-Python: Inteligência de Dados 📊</h2>
 
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tech-Pandas%20%7C%20Matplotlib%20%7C%20Jupyter-blue)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/BI-Python/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/blob/main/LICENSE)
 
 <p align="center">
   <strong>Análise Visual de Churn:</strong><br>
   <img src="/assets/images/dashboard-preview.png" alt="Dashboard Animado" width="100%" />
 </p>
 
-> Bem-vindo ao **BI-Python**! Um laboratório de Business Intelligence focado em transformar dados brutos de cancelamentos em narrativas visuais claras. Aqui, exploramos padrões de churn através de uma abordagem analítica rigorosa e visualizações de alto impacto.
+> Bem-vindo ao **Customer-Retention-Insights-Python**! Um laboratório de Business Intelligence focado em transformar dados brutos de cancelamentos em narrativas visuais claras. Aqui, exploramos padrões de churn através de uma abordagem analítica rigorosa e visualizações de alto impacto.
 
 ---
 
@@ -41,15 +41,15 @@
 
 ---
 
-<h2 id="como-rodar-localmente">3. 🚀 Como Rodar Localmente</h2>
+<h2 id="como-rodar-localmente">3. 🚀 Como Rodar Localmente ❓</h2>
 
 Deseja reproduzir a análise no seu ambiente? Siga os comandos:
 
 <h4>1. Clone o repositório:</h4>
 
 ```bash
-git clone https://github.com/Domisnnet/BI-Python.git
-cd BI-Python
+git clone https://github.com/Domisnnet/Customer-Retention-Insights-Python.git
+cd Customer-Retention-Insights-Python
 ```
 
 ---
@@ -93,7 +93,7 @@ Cada gráfico é desenhado para responder uma pergunta de negócio específica, 
 <h2 id="estrutura-do-projeto">6. 📂 Estrutura do Projeto</h2>
 
 ```text
-BI-Python/
+Customer-Retention-Insights-Python/
 ├── data/
 │   └── raw/                📌 Datasets originais (CSV)
 ├── notebooks/
@@ -113,18 +113,18 @@ Deseja melhorar o design ou adicionar novas métricas? Siga o fluxo oficial:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/BI-Python/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/fork) |
 | **02** | **Branch** | `git checkout -b feature/NovoGrafico` |
 | **03** | **Commit** | `git commit -m 'feat: add gráfico de estrelas'` |
 | **04** | **Push** | `git push origin feature/NovoGrafico` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/BI-Python/compare)
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/compare)
 
 <h3>🐛 Encontrou um problema?</h3>
 
 Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
-[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Github-Stats-Gnr-Python?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/BI-Python/issues)
-[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/BI-Python/issues/new)
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Customer-Retention-Insights-Python?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/issues/new)
 
 ---
 
@@ -132,7 +132,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 <details>
 <summary><strong>Os dados são reais ou fictícios ❓</strong></summary>
-<p>📊 <strong>Resposta:</strong> Os dados utilizados são amostras representativas (<code>cancelamentos_sample.csv</code>) para fins de demonstração e estudo de técnicas de BI.</p>
+<p>📊 <strong>Resposta:</strong> Os dados utilizados são amostras representativas <code>cancelamentos_sample.csv</code> para fins de demonstração e estudo de técnicas de BI.</p>
 </details>
 
 <details>
@@ -151,7 +151,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Deseja analisar a lógica de processamento? Explore o Repositório Oficial:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FBI--Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Domisnnet/BI-Python)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FBI--Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Domisnnet/Customer-Retention-Insights-Python)
 
 ---
 
@@ -164,13 +164,13 @@ O **BI-Python** é resultado de estudo contínuo em Data Science:
 | **Análise de Dados** | **DomisDev** | Exploração, limpeza e visualização dos datasets. |
 | **Engine Gráfica** | **Matplotlib** | Base para renderização estatística precisa. |
 | **Manipulação** | **Pandas** | Processamento eficiente de tabelas e séries temporais. |
-| **Apoio Técnico** | **Google Gemini** | Padronização King-Domfy e refinamento documental. |
+| **Apoio Técnico** | **Google Gemini** | Padronização e refinamento documental. |
 
 ---
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a &nbsp;[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/BI-Python/blob/main/LICENSE)
+Este projeto está licenciado sob a &nbsp;[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/blob/main/LICENSE)
 
 ---
 
