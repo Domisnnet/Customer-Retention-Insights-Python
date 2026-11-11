@@ -2,16 +2,13 @@
   "name": "bi-python",
   "version": "1.0.0",
   "description": "Laboratório de Business Intelligence focado em análise de churn e visualização de dados com Python.",
-  "main": "notebooks/inicial.ipynb",
+  "main": "inicial.ipynb",
   "scripts": {
-    "start": "jupyter notebook notebooks/inicial.ipynb",
+    "start": "jupyter notebook inicial.ipynb",
     "setup": "pip install -r requirements.txt",
     "clean": "rm -rf .ipynb_checkpoints __pycache__ assets/png/*.png"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Domisnnet/BI-Python.git"
-  },
+  "repository": { "type": "git", "url": "git+https://github.com/Domisnnet/BI-Python.git" },
   "keywords": [
     "business-intelligence",
     "data-science",
@@ -21,7 +18,7 @@
     "churn-analysis",
     "domisdev"
   ],
-  "author": "Dominique Marcelino Gonçalves (DomisDev)",
+  "author": "DomisDev",
   "license": "MIT",
   "bugs": { "url": "https://github.com/Domisnnet/BI-Python/issues" },
   "homepage": "https://github.com/Domisnnet/BI-Python#readme"
