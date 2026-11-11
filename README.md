@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Análise Visual de Churn:</strong><br>
-  <img src="../assets/images/dashboard-preview.png" alt="Dashboard Animado" width="100%" />
+  <img src="/assets/images/dashboard-preview.png" alt="Dashboard Animado" width="100%" />
 </p>
 
 > Bem-vindo ao **BI-Python**! Um laboratório de Business Intelligence focado em transformar dados brutos de cancelamentos em narrativas visuais claras. Aqui, exploramos padrões de churn através de uma abordagem analítica rigorosa e visualizações de alto impacto.
