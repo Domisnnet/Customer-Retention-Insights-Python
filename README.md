@@ -5,7 +5,7 @@
 
 <h2 id="sobre-o-projeto">1. BI-Python: Inteligência de Dados 📊</h2>
 
-![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
+![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen?style=flat&logo=firebase&logoColor=white)
 ![Tecnologias](https://img.shields.io/badge/Tech-Pandas%20%7C%20Matplotlib%20%7C%20Jupyter-blue)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Customer-Retention-Insights-Python/blob/main/LICENSE)
 
